@@ -1,0 +1,27 @@
+.ERPpopover {
+    position: absolute;
+      bottom: calc(-120%); 
+      /* top:10%; */
+      left: calc(100% + 100px);
+    right: unset;
+      transform: translate(0, -50%);
+      display: box;
+      padding: 2px;
+      background: lightgray;
+      border-radius: 5px;
+  }
+  .Salespopover{
+   
+      position: absolute;
+      bottom: -55px;
+      right: -200px;
+      z-index: 9999;
+      background-color: lightgray;
+      border-radius: 5px;
+      padding: 2px;
+      
+      display: box;
+      /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); */
+    
+    
+  }

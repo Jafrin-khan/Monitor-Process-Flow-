@@ -44,5 +44,7 @@ The vision of this application is to showcase the capabilities of CGTO processes
     i. Create Biospecimen Collection
     j. Create FP shipment
     k. Generate Sales Order
-    
-   
+
+
+   ![17](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/40f4fb8e-1c95-40ab-a659-1c201c9ed83d)
+

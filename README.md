@@ -59,7 +59,12 @@ The vision of this application is to showcase the capabilities of CGTO processes
 
 ![m16](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/f86081f7-c3a8-4bb9-922c-b7ade32872e1)
 
+<br /><br />
+
 ![m18](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/2dad103a-7754-4e17-9421-d1ee6874bc29)
+
+<br /><br />
+![m21](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/aaae0bb2-a5f6-4753-85d7-769d921cee53)
 
 <br /><br />
 

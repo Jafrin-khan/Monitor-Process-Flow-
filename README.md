@@ -47,44 +47,78 @@ The vision of this application is to showcase the capabilities of CGTO processes
     j. Create FP shipment
     k. Generate Sales Order
 
-![m13](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/5cf16da9-542c-4ee7-9258-8ef0cc3eaa95)
+
+![m13](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/8b215d9b-0103-470f-89ce-5f6c720661f5)
 
 <br /><br />
 
-![m14](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/3ef0b5fa-09ed-4f56-836f-2607af96529d)
+
+
+![m14](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/e6fb3866-7b61-44e9-bc6c-0d3e5f92d1a4)
+
+
+<br /><br />
+![17](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/14741d80-f040-4baa-a10a-ef191486ac64)
+
+<br /><br />
+![m15](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/a3b5fbe5-1318-4a51-accc-f53bfd72771d)
+
+
 
 <br /><br />
 
-![m15](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/9cae7113-d2f5-4c27-8695-d97dead62a7b)
+![m16](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/18fa82d4-d5e4-4576-9f04-d587bd7a4f62)
+
+
+<br /><br />
+![m18](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/353e8a36-0f8a-47b0-8d59-6ec9bd592cdb)
+
 
 <br /><br />
 
-![m16](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/f86081f7-c3a8-4bb9-922c-b7ade32872e1)
+![m19](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/05b78a89-0718-485f-8c6a-6db7b2562a34)
 
 <br /><br />
 
-![m18](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/2dad103a-7754-4e17-9421-d1ee6874bc29)
+  ![m20](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/141867d6-c65d-443f-b11f-b2091575a1a9)
 
-<br /><br />
-![m21](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/aaae0bb2-a5f6-4753-85d7-769d921cee53)
-
-<br /><br />
-
-   ![17](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/40f4fb8e-1c95-40ab-a659-1c201c9ed83d)
 
    <br /><br />
 
-   ![m6](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/d3094d1b-7a82-4dea-82e3-5975d46a372b)
+  ![m21](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/ef393a7b-c53c-4e51-998a-e2cd116988e2)
+
 
    <br /><br />
 
-   ![m7](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/d2920338-c405-49d0-aefc-e6f95b1dc33c)
+  ![m22](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/e181e4e9-953d-4c4e-99ee-b8885fc9a9f9)
+
 
 <br /><br />
    
-![m11](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/b82663fe-b3c3-4a01-a02c-a399edb75514)
+![m23](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/e1dae9f0-43b8-48af-a088-ef6f3377040c)
+
 
 <br /><br />
 
-![m3](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/7dc55220-507f-45f1-91cc-1bcb9bad8606)
 
+![m24](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/91d36773-3647-458b-940d-c64f34814ff9)
+
+<br /><br />
+![m25](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/a01f1d67-beeb-4411-8738-045f8ea11f01)
+
+<br /><br />
+![m26](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/7bfce364-5c2b-425f-b4e6-5d878ef2c495)
+
+<br /><br />
+
+![m7](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/1cc61277-81bb-4b96-bb21-57c20400c34c)
+
+<br /><br />
+![m8](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/8195aad5-f2e6-4cce-822c-c948f5e1cb5e)
+<br /><br />
+
+
+![m9](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/de7cab2d-be11-40ef-88d7-eb3308d3e7bb)
+<br /><br />
+
+![m11](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/06fae615-b76b-4cdb-b55c-e70e0d272e74)

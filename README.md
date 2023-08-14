@@ -1,4 +1,3 @@
-## SAP Internship Project
 
 ## Integrated-Demo-Application---PoC
 The vision of this application is to showcase the capabilities of CGTO processes by simulating the integration between CGTO and ERP systems, as well as patient management applications.
@@ -31,21 +30,6 @@ The vision of this application is to showcase the capabilities of CGTO processes
 ```
 
   e. Go to the port where the App is hosted locally
-
-
-#### 2. Sequence to follow :
-
-    a. Select the System from the dropdown - Dev , QA , GxP
-    b. Obtain the master data
-    c. Create coICoCID or use existing one
-    d. Generate Treatment Order
-    e. Create Biospecimen Shipment
-    f. Confirm Flow Version
-    g. Create Purchase Order
-    h. Create Process Order
-    i. Create Biospecimen Collection
-    j. Create FP shipment
-    k. Generate Sales Order
 
 
 ![m13](https://github.com/Jafrin-khan/Monitor-Process-Flow-/assets/82137973/8b215d9b-0103-470f-89ce-5f6c720661f5)
